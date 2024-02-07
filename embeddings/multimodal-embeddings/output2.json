@@ -1,0 +1,4260 @@
+predictions {
+  struct_value {
+    fields {
+      key: "videoEmbeddings"
+      value {
+        list_value {
+          values {
+            struct_value {
+              fields {
+                key: "startOffsetSec"
+                value {
+                  number_value: 0
+                }
+              }
+              fields {
+                key: "endOffsetSec"
+                value {
+                  number_value: 7
+                }
+              }
+              fields {
+                key: "embedding"
+                value {
+                  list_value {
+                    values {
+                      number_value: 0.0134672178
+                    }
+                    values {
+                      number_value: 0.00501557672
+                    }
+                    values {
+                      number_value: -0.0050956714
+                    }
+                    values {
+                      number_value: 0.017386755
+                    }
+                    values {
+                      number_value: -0.00382750714
+                    }
+                    values {
+                      number_value: -0.0104632182
+                    }
+                    values {
+                      number_value: 0.0272019096
+                    }
+                    values {
+                      number_value: -0.0241266657
+                    }
+                    values {
+                      number_value: -0.0140741104
+                    }
+                    values {
+                      number_value: 0.0107293157
+                    }
+                    values {
+                      number_value: 0.0334958397
+                    }
+                    values {
+                      number_value: 0.00130549
+                    }
+                    values {
+                      number_value: -0.00653676922
+                    }
+                    values {
+                      number_value: 0.0971443877
+                    }
+                    values {
+                      number_value: -0.0244102348
+                    }
+                    values {
+                      number_value: -0.0154240159
+                    }
+                    values {
+                      number_value: -0.0393521041
+                    }
+                    values {
+                      number_value: 0.0196823943
+                    }
+                    values {
+                      number_value: -0.00529386709
+                    }
+                    values {
+                      number_value: -0.017318802
+                    }
+                    values {
+                      number_value: -0.0315341093
+                    }
+                    values {
+                      number_value: -0.00249503832
+                    }
+                    values {
+                      number_value: 0.00341328746
+                    }
+                    values {
+                      number_value: 0.00756964507
+                    }
+                    values {
+                      number_value: -0.0174926035
+                    }
+                    values {
+                      number_value: 0.00899641495
+                    }
+                    values {
+                      number_value: -0.0180464052
+                    }
+                    values {
+                      number_value: -0.00212583528
+                    }
+                    values {
+                      number_value: -0.0257419366
+                    }
+                    values {
+                      number_value: -0.0224879086
+                    }
+                    values {
+                      number_value: -0.0152792148
+                    }
+                    values {
+                      number_value: -0.00599195948
+                    }
+                    values {
+                      number_value: -0.0270870905
+                    }
+                    values {
+                      number_value: -0.020572193
+                    }
+                    values {
+                      number_value: 0.0227013696
+                    }
+                    values {
+                      number_value: -0.0351062045
+                    }
+                    values {
+                      number_value: -0.0129985586
+                    }
+                    values {
+                      number_value: 0.00139691553
+                    }
+                    values {
+                      number_value: -0.0222235844
+                    }
+                    values {
+                      number_value: -0.0039082896
+                    }
+                    values {
+                      number_value: -0.0155265434
+                    }
+                    values {
+                      number_value: -0.000631453295
+                    }
+                    values {
+                      number_value: 0.0277952645
+                    }
+                    values {
+                      number_value: -0.00182000967
+                    }
+                    values {
+                      number_value: -0.0231635459
+                    }
+                    values {
+                      number_value: 0.0148186842
+                    }
+                    values {
+                      number_value: -0.0396608636
+                    }
+                    values {
+                      number_value: 0.0317789242
+                    }
+                    values {
+                      number_value: 0.0123385554
+                    }
+                    values {
+                      number_value: 0.0293555465
+                    }
+                    values {
+                      number_value: -0.00344395358
+                    }
+                    values {
+                      number_value: -0.0223013312
+                    }
+                    values {
+                      number_value: -0.00607801648
+                    }
+                    values {
+                      number_value: -0.0124993278
+                    }
+                    values {
+                      number_value: -0.0113163758
+                    }
+                    values {
+                      number_value: 0.0306241065
+                    }
+                    values {
+                      number_value: -0.0129557103
+                    }
+                    values {
+                      number_value: -0.0162483584
+                    }
+                    values {
+                      number_value: -0.000455765112
+                    }
+                    values {
+                      number_value: -0.0160507858
+                    }
+                    values {
+                      number_value: 0.0014119948
+                    }
+                    values {
+                      number_value: 0.00687424047
+                    }
+                    values {
+                      number_value: -0.0152188456
+                    }
+                    values {
+                      number_value: 0.00158993178
+                    }
+                    values {
+                      number_value: 0.00731984852
+                    }
+                    values {
+                      number_value: -0.0188158564
+                    }
+                    values {
+                      number_value: -0.0206849407
+                    }
+                    values {
+                      number_value: 0.0272545051
+                    }
+                    values {
+                      number_value: 0.0226884671
+                    }
+                    values {
+                      number_value: 0.00289235637
+                    }
+                    values {
+                      number_value: -0.0130161634
+                    }
+                    values {
+                      number_value: -0.0239225309
+                    }
+                    values {
+                      number_value: -0.0122731132
+                    }
+                    values {
+                      number_value: 0.0273244716
+                    }
+                    values {
+                      number_value: -0.00493431557
+                    }
+                    values {
+                      number_value: 0.0155695267
+                    }
+                    values {
+                      number_value: 0.031565845
+                    }
+                    values {
+                      number_value: 0.00681801094
+                    }
+                    values {
+                      number_value: -0.0106088007
+                    }
+                    values {
+                      number_value: 0.0039871661
+                    }
+                    values {
+                      number_value: 0.0334243588
+                    }
+                    values {
+                      number_value: 0.016171582
+                    }
+                    values {
+                      number_value: -0.0255706403
+                    }
+                    values {
+                      number_value: -0.00221626437
+                    }
+                    values {
+                      number_value: -0.0336218923
+                    }
+                    values {
+                      number_value: -0.00186286983
+                    }
+                    values {
+                      number_value: 0.0108320257
+                    }
+                    values {
+                      number_value: -0.0117852371
+                    }
+                    values {
+                      number_value: 0.0105612408
+                    }
+                    values {
+                      number_value: -0.0281279832
+                    }
+                    values {
+                      number_value: -0.0324228816
+                    }
+                    values {
+                      number_value: 0.0120083783
+                    }
+                    values {
+                      number_value: -0.00112782442
+                    }
+                    values {
+                      number_value: -0.293256819
+                    }
+                    values {
+                      number_value: -0.0102272974
+                    }
+                    values {
+                      number_value: -0.0172167737
+                    }
+                    values {
+                      number_value: -0.00209482317
+                    }
+                    values {
+                      number_value: -0.0302521903
+                    }
+                    values {
+                      number_value: 0.0259504691
+                    }
+                    values {
+                      number_value: 0.00102359522
+                    }
+                    values {
+                      number_value: 0.027169181
+                    }
+                    values {
+                      number_value: 0.0505822301
+                    }
+                    values {
+                      number_value: 0.0068638213
+                    }
+                    values {
+                      number_value: -0.00645244913
+                    }
+                    values {
+                      number_value: 0.00461443374
+                    }
+                    values {
+                      number_value: -0.0323056318
+                    }
+                    values {
+                      number_value: 0.00347430375
+                    }
+                    values {
+                      number_value: 0.0202228837
+                    }
+                    values {
+                      number_value: -0.0383373499
+                    }
+                    values {
+                      number_value: 0.0254513435
+                    }
+                    values {
+                      number_value: 0.0123308757
+                    }
+                    values {
+                      number_value: -0.0270311441
+                    }
+                    values {
+                      number_value: 0.0353640318
+                    }
+                    values {
+                      number_value: -0.0199554041
+                    }
+                    values {
+                      number_value: 0.0178890117
+                    }
+                    values {
+                      number_value: -0.0169164576
+                    }
+                    values {
+                      number_value: -0.00286971522
+                    }
+                    values {
+                      number_value: -0.0117759826
+                    }
+                    values {
+                      number_value: 0.0136443228
+                    }
+                    values {
+                      number_value: -0.0244968832
+                    }
+                    values {
+                      number_value: 0.00673511811
+                    }
+                    values {
+                      number_value: -0.0603067577
+                    }
+                    values {
+                      number_value: -0.00547722634
+                    }
+                    values {
+                      number_value: 0.0091751432
+                    }
+                    values {
+                      number_value: 3.91495232e-05
+                    }
+                    values {
+                      number_value: -0.0738654435
+                    }
+                    values {
+                      number_value: 0.0308303405
+                    }
+                    values {
+                      number_value: -0.000588907511
+                    }
+                    values {
+                      number_value: -0.0178675428
+                    }
+                    values {
+                      number_value: 0.0123486724
+                    }
+                    values {
+                      number_value: -0.0388056301
+                    }
+                    values {
+                      number_value: -0.014182156
+                    }
+                    values {
+                      number_value: 0.0255688634
+                    }
+                    values {
+                      number_value: -0.0228402503
+                    }
+                    values {
+                      number_value: -0.0233862326
+                    }
+                    values {
+                      number_value: -0.0189656522
+                    }
+                    values {
+                      number_value: 0.017311085
+                    }
+                    values {
+                      number_value: -0.0146278087
+                    }
+                    values {
+                      number_value: -0.00251763221
+                    }
+                    values {
+                      number_value: 0.00371238263
+                    }
+                    values {
+                      number_value: -0.0244771652
+                    }
+                    values {
+                      number_value: -0.0469966754
+                    }
+                    values {
+                      number_value: 0.00590458652
+                    }
+                    values {
+                      number_value: 0.000697468058
+                    }
+                    values {
+                      number_value: -0.01300749
+                    }
+                    values {
+                      number_value: -0.0179084092
+                    }
+                    values {
+                      number_value: -0.0359644592
+                    }
+                    values {
+                      number_value: -0.0280023497
+                    }
+                    values {
+                      number_value: -0.0194067843
+                    }
+                    values {
+                      number_value: -0.0109990118
+                    }
+                    values {
+                      number_value: -0.0114218201
+                    }
+                    values {
+                      number_value: 0.00258314493
+                    }
+                    values {
+                      number_value: -0.0195866302
+                    }
+                    values {
+                      number_value: 0.0535998717
+                    }
+                    values {
+                      number_value: -0.0029933583
+                    }
+                    values {
+                      number_value: 0.0184946265
+                    }
+                    values {
+                      number_value: -0.00178970734
+                    }
+                    values {
+                      number_value: -0.0193344131
+                    }
+                    values {
+                      number_value: 0.00334502733
+                    }
+                    values {
+                      number_value: 0.008038681
+                    }
+                    values {
+                      number_value: -0.0330987945
+                    }
+                    values {
+                      number_value: 0.0177022479
+                    }
+                    values {
+                      number_value: 0.00535239791
+                    }
+                    values {
+                      number_value: 0.0328861
+                    }
+                    values {
+                      number_value: 0.0262599383
+                    }
+                    values {
+                      number_value: 0.036240343
+                    }
+                    values {
+                      number_value: 0.0384384654
+                    }
+                    values {
+                      number_value: 0.00380753283
+                    }
+                    values {
+                      number_value: -0.00842764787
+                    }
+                    values {
+                      number_value: -0.00210412592
+                    }
+                    values {
+                      number_value: 0.0210378692
+                    }
+                    values {
+                      number_value: 0.00152309856
+                    }
+                    values {
+                      number_value: -0.0274599679
+                    }
+                    values {
+                      number_value: -0.0246318486
+                    }
+                    values {
+                      number_value: -0.000363353349
+                    }
+                    values {
+                      number_value: -0.0132156303
+                    }
+                    values {
+                      number_value: 0.0218947381
+                    }
+                    values {
+                      number_value: -0.0174970347
+                    }
+                    values {
+                      number_value: -0.0218668245
+                    }
+                    values {
+                      number_value: -0.0100831045
+                    }
+                    values {
+                      number_value: -0.00807410665
+                    }
+                    values {
+                      number_value: 0.00987207703
+                    }
+                    values {
+                      number_value: -0.0270917136
+                    }
+                    values {
+                      number_value: 0.00442874292
+                    }
+                    values {
+                      number_value: 0.03267207
+                    }
+                    values {
+                      number_value: -0.0100937458
+                    }
+                    values {
+                      number_value: -0.0152219357
+                    }
+                    values {
+                      number_value: -0.0275710989
+                    }
+                    values {
+                      number_value: 0.0154701835
+                    }
+                    values {
+                      number_value: -0.0162709188
+                    }
+                    values {
+                      number_value: -0.0253335256
+                    }
+                    values {
+                      number_value: 0.00979945902
+                    }
+                    values {
+                      number_value: 0.0274509713
+                    }
+                    values {
+                      number_value: 0.0291982591
+                    }
+                    values {
+                      number_value: -0.0108361216
+                    }
+                    values {
+                      number_value: -0.0330624133
+                    }
+                    values {
+                      number_value: 0.0240520816
+                    }
+                    values {
+                      number_value: -0.0408253111
+                    }
+                    values {
+                      number_value: -0.0023360271
+                    }
+                    values {
+                      number_value: 0.0288374629
+                    }
+                    values {
+                      number_value: 0.00763903838
+                    }
+                    values {
+                      number_value: 0.00678173779
+                    }
+                    values {
+                      number_value: -0.00919538271
+                    }
+                    values {
+                      number_value: 0.0391001962
+                    }
+                    values {
+                      number_value: 0.00606686622
+                    }
+                    values {
+                      number_value: -0.0174743645
+                    }
+                    values {
+                      number_value: 0.00198515342
+                    }
+                    values {
+                      number_value: 0.0169503186
+                    }
+                    values {
+                      number_value: -0.0219272375
+                    }
+                    values {
+                      number_value: -0.0148675544
+                    }
+                    values {
+                      number_value: 0.000639721577
+                    }
+                    values {
+                      number_value: 0.00756973773
+                    }
+                    values {
+                      number_value: -0.0116023663
+                    }
+                    values {
+                      number_value: 0.0159931555
+                    }
+                    values {
+                      number_value: 0.00897266716
+                    }
+                    values {
+                      number_value: -0.00332168094
+                    }
+                    values {
+                      number_value: -0.0369443372
+                    }
+                    values {
+                      number_value: 0.0212481543
+                    }
+                    values {
+                      number_value: -0.00460445648
+                    }
+                    values {
+                      number_value: 0.0254134182
+                    }
+                    values {
+                      number_value: -0.00112747785
+                    }
+                    values {
+                      number_value: -0.0210231896
+                    }
+                    values {
+                      number_value: -0.0750037581
+                    }
+                    values {
+                      number_value: -0.025368344
+                    }
+                    values {
+                      number_value: 0.0198968742
+                    }
+                    values {
+                      number_value: -0.0133674834
+                    }
+                    values {
+                      number_value: 0.0200236496
+                    }
+                    values {
+                      number_value: -0.00375781162
+                    }
+                    values {
+                      number_value: -0.0355505832
+                    }
+                    values {
+                      number_value: 0.0138926795
+                    }
+                    values {
+                      number_value: 0.0154565824
+                    }
+                    values {
+                      number_value: 0.025174465
+                    }
+                    values {
+                      number_value: -0.0321599729
+                    }
+                    values {
+                      number_value: -0.0147242844
+                    }
+                    values {
+                      number_value: -0.00435059052
+                    }
+                    values {
+                      number_value: -0.0127076013
+                    }
+                    values {
+                      number_value: -0.00731222
+                    }
+                    values {
+                      number_value: -0.0379703
+                    }
+                    values {
+                      number_value: 0.000880988431
+                    }
+                    values {
+                      number_value: -0.0271811429
+                    }
+                    values {
+                      number_value: -0.00705368
+                    }
+                    values {
+                      number_value: -0.0112833884
+                    }
+                    values {
+                      number_value: -0.0174392294
+                    }
+                    values {
+                      number_value: 0.00361801195
+                    }
+                    values {
+                      number_value: 0.0339939259
+                    }
+                    values {
+                      number_value: 0.00872963667
+                    }
+                    values {
+                      number_value: -0.00658067269
+                    }
+                    values {
+                      number_value: 0.00870699156
+                    }
+                    values {
+                      number_value: -0.00384941045
+                    }
+                    values {
+                      number_value: -0.00971845
+                    }
+                    values {
+                      number_value: 0.00232594809
+                    }
+                    values {
+                      number_value: 0.0310253948
+                    }
+                    values {
+                      number_value: 0.00190302473
+                    }
+                    values {
+                      number_value: -0.0308739357
+                    }
+                    values {
+                      number_value: 0.0324765295
+                    }
+                    values {
+                      number_value: -0.0224000886
+                    }
+                    values {
+                      number_value: -0.00688206358
+                    }
+                    values {
+                      number_value: 0.013894272
+                    }
+                    values {
+                      number_value: -0.0282992497
+                    }
+                    values {
+                      number_value: -0.00692724576
+                    }
+                    values {
+                      number_value: 0.0323774628
+                    }
+                    values {
+                      number_value: -0.00650438
+                    }
+                    values {
+                      number_value: -0.0029721458
+                    }
+                    values {
+                      number_value: -0.0149403103
+                    }
+                    values {
+                      number_value: -0.0423711576
+                    }
+                    values {
+                      number_value: 0.0149023877
+                    }
+                    values {
+                      number_value: -0.0153337242
+                    }
+                    values {
+                      number_value: -0.0206232276
+                    }
+                    values {
+                      number_value: 0.0317277797
+                    }
+                    values {
+                      number_value: 0.0330543555
+                    }
+                    values {
+                      number_value: 0.0163972974
+                    }
+                    values {
+                      number_value: -0.0315989219
+                    }
+                    values {
+                      number_value: -0.00858828146
+                    }
+                    values {
+                      number_value: -0.0134206731
+                    }
+                    values {
+                      number_value: 0.00919034798
+                    }
+                    values {
+                      number_value: -0.0187916458
+                    }
+                    values {
+                      number_value: -0.00273693679
+                    }
+                    values {
+                      number_value: -0.0145079624
+                    }
+                    values {
+                      number_value: -0.0299079455
+                    }
+                    values {
+                      number_value: 0.21091567
+                    }
+                    values {
+                      number_value: -0.014394857
+                    }
+                    values {
+                      number_value: 0.00797035452
+                    }
+                    values {
+                      number_value: -0.0120297223
+                    }
+                    values {
+                      number_value: 0.0169189274
+                    }
+                    values {
+                      number_value: -0.00434885407
+                    }
+                    values {
+                      number_value: 0.00417057285
+                    }
+                    values {
+                      number_value: -0.128335044
+                    }
+                    values {
+                      number_value: 0.0182485394
+                    }
+                    values {
+                      number_value: 0.0229909
+                    }
+                    values {
+                      number_value: -0.0493434146
+                    }
+                    values {
+                      number_value: 0.00612041634
+                    }
+                    values {
+                      number_value: 0.00770000089
+                    }
+                    values {
+                      number_value: -0.0400630198
+                    }
+                    values {
+                      number_value: -0.0171189345
+                    }
+                    values {
+                      number_value: -0.0165240504
+                    }
+                    values {
+                      number_value: -0.00336544
+                    }
+                    values {
+                      number_value: -0.0199007746
+                    }
+                    values {
+                      number_value: 0.0328278318
+                    }
+                    values {
+                      number_value: -0.0169540066
+                    }
+                    values {
+                      number_value: 0.0485999361
+                    }
+                    values {
+                      number_value: 0.00735279359
+                    }
+                    values {
+                      number_value: -0.0133163845
+                    }
+                    values {
+                      number_value: -0.00212460803
+                    }
+                    values {
+                      number_value: 0.00238865893
+                    }
+                    values {
+                      number_value: 0.00829505641
+                    }
+                    values {
+                      number_value: 0.00521583203
+                    }
+                    values {
+                      number_value: -0.0124660404
+                    }
+                    values {
+                      number_value: -0.00603915751
+                    }
+                    values {
+                      number_value: -0.00350931147
+                    }
+                    values {
+                      number_value: 0.00566933677
+                    }
+                    values {
+                      number_value: -0.0116030918
+                    }
+                    values {
+                      number_value: 0.0165262092
+                    }
+                    values {
+                      number_value: 0.000822656264
+                    }
+                    values {
+                      number_value: 0.0310094319
+                    }
+                    values {
+                      number_value: -0.00580047024
+                    }
+                    values {
+                      number_value: 0.00345738791
+                    }
+                    values {
+                      number_value: -0.023345219
+                    }
+                    values {
+                      number_value: -0.00541601703
+                    }
+                    values {
+                      number_value: -0.018120734
+                    }
+                    values {
+                      number_value: -0.0232156161
+                    }
+                    values {
+                      number_value: 0.0319915675
+                    }
+                    values {
+                      number_value: 0.0104450546
+                    }
+                    values {
+                      number_value: -0.0156231467
+                    }
+                    values {
+                      number_value: 0.00720312074
+                    }
+                    values {
+                      number_value: 0.010073171
+                    }
+                    values {
+                      number_value: 0.0161812846
+                    }
+                    values {
+                      number_value: 0.0248557087
+                    }
+                    values {
+                      number_value: 0.00991154835
+                    }
+                    values {
+                      number_value: 0.0215510931
+                    }
+                    values {
+                      number_value: -0.0188579615
+                    }
+                    values {
+                      number_value: 0.0153288767
+                    }
+                    values {
+                      number_value: -0.0335683152
+                    }
+                    values {
+                      number_value: -0.0425191969
+                    }
+                    values {
+                      number_value: 0.0110347932
+                    }
+                    values {
+                      number_value: 0.0177656021
+                    }
+                    values {
+                      number_value: -0.000327840622
+                    }
+                    values {
+                      number_value: 0.0191704836
+                    }
+                    values {
+                      number_value: 0.0176107679
+                    }
+                    values {
+                      number_value: -0.0231545232
+                    }
+                    values {
+                      number_value: -0.0193401594
+                    }
+                    values {
+                      number_value: 0.0154442005
+                    }
+                    values {
+                      number_value: 0.00460285367
+                    }
+                    values {
+                      number_value: -0.0214317
+                    }
+                    values {
+                      number_value: -0.0010762543
+                    }
+                    values {
+                      number_value: 0.0171979796
+                    }
+                    values {
+                      number_value: 0.0230491105
+                    }
+                    values {
+                      number_value: -0.0233133249
+                    }
+                    values {
+                      number_value: 0.00347887259
+                    }
+                    values {
+                      number_value: -0.00329919462
+                    }
+                    values {
+                      number_value: 0.00326342764
+                    }
+                    values {
+                      number_value: 0.0155654922
+                    }
+                    values {
+                      number_value: -0.0128275305
+                    }
+                    values {
+                      number_value: 0.019963365
+                    }
+                    values {
+                      number_value: 0.0351518206
+                    }
+                    values {
+                      number_value: 0.0146102132
+                    }
+                    values {
+                      number_value: 0.0146301454
+                    }
+                    values {
+                      number_value: -0.0232792832
+                    }
+                    values {
+                      number_value: -0.0337032191
+                    }
+                    values {
+                      number_value: 0.0276956372
+                    }
+                    values {
+                      number_value: -0.00225494872
+                    }
+                    values {
+                      number_value: -0.0111882109
+                    }
+                    values {
+                      number_value: -0.0179530606
+                    }
+                    values {
+                      number_value: -0.0289734621
+                    }
+                    values {
+                      number_value: -0.0286772829
+                    }
+                    values {
+                      number_value: -0.0337463096
+                    }
+                    values {
+                      number_value: -0.0129333287
+                    }
+                    values {
+                      number_value: 0.0490370467
+                    }
+                    values {
+                      number_value: -0.0118572321
+                    }
+                    values {
+                      number_value: -0.0211517494
+                    }
+                    values {
+                      number_value: 0.0239667539
+                    }
+                    values {
+                      number_value: -0.0304209553
+                    }
+                    values {
+                      number_value: 0.0296834502
+                    }
+                    values {
+                      number_value: -0.0267308764
+                    }
+                    values {
+                      number_value: 0.0249010492
+                    }
+                    values {
+                      number_value: -0.0136355525
+                    }
+                    values {
+                      number_value: -0.0160909519
+                    }
+                    values {
+                      number_value: -0.0168898012
+                    }
+                    values {
+                      number_value: 0.0141668
+                    }
+                    values {
+                      number_value: 0.00482414057
+                    }
+                    values {
+                      number_value: 0.0121268705
+                    }
+                    values {
+                      number_value: 0.0010282842
+                    }
+                    values {
+                      number_value: 0.00594632467
+                    }
+                    values {
+                      number_value: 0.00663849385
+                    }
+                    values {
+                      number_value: -0.0296579022
+                    }
+                    values {
+                      number_value: -0.00510773063
+                    }
+                    values {
+                      number_value: -0.0104759522
+                    }
+                    values {
+                      number_value: 0.00938091706
+                    }
+                    values {
+                      number_value: 0.00956630334
+                    }
+                    values {
+                      number_value: 0.0265383329
+                    }
+                    values {
+                      number_value: 0.0420151
+                    }
+                    values {
+                      number_value: 0.0122874035
+                    }
+                    values {
+                      number_value: 0.00768216234
+                    }
+                    values {
+                      number_value: 0.00481741736
+                    }
+                    values {
+                      number_value: 0.0538086593
+                    }
+                    values {
+                      number_value: -0.00479412498
+                    }
+                    values {
+                      number_value: -0.00993676111
+                    }
+                    values {
+                      number_value: -0.019497728
+                    }
+                    values {
+                      number_value: -0.0115443561
+                    }
+                    values {
+                      number_value: -0.00567588583
+                    }
+                    values {
+                      number_value: 0.00413860194
+                    }
+                    values {
+                      number_value: -0.0234143306
+                    }
+                    values {
+                      number_value: -0.00493086
+                    }
+                    values {
+                      number_value: 0.00857590325
+                    }
+                    values {
+                      number_value: 0.022717515
+                    }
+                    values {
+                      number_value: 0.0167898387
+                    }
+                    values {
+                      number_value: -0.0351518132
+                    }
+                    values {
+                      number_value: -0.0190873817
+                    }
+                    values {
+                      number_value: -0.0337747484
+                    }
+                    values {
+                      number_value: 0.00377785042
+                    }
+                    values {
+                      number_value: 0.0251840744
+                    }
+                    values {
+                      number_value: 0.000924191438
+                    }
+                    values {
+                      number_value: -0.000754298118
+                    }
+                    values {
+                      number_value: 0.0179281
+                    }
+                    values {
+                      number_value: -0.00124545372
+                    }
+                    values {
+                      number_value: 0.00889734924
+                    }
+                    values {
+                      number_value: -0.0135559868
+                    }
+                    values {
+                      number_value: -0.00685919309
+                    }
+                    values {
+                      number_value: -0.0085454667
+                    }
+                    values {
+                      number_value: -0.0338052213
+                    }
+                    values {
+                      number_value: -0.0126186963
+                    }
+                    values {
+                      number_value: -0.0112954257
+                    }
+                    values {
+                      number_value: 0.00140484632
+                    }
+                    values {
+                      number_value: -0.0088206837
+                    }
+                    values {
+                      number_value: 0.0214520451
+                    }
+                    values {
+                      number_value: -0.00515777059
+                    }
+                    values {
+                      number_value: -0.00725488923
+                    }
+                    values {
+                      number_value: -0.00236957078
+                    }
+                    values {
+                      number_value: 0.0123452609
+                    }
+                    values {
+                      number_value: -0.00424187304
+                    }
+                    values {
+                      number_value: 0.0147242025
+                    }
+                    values {
+                      number_value: 0.0030667223
+                    }
+                    values {
+                      number_value: -0.018195685
+                    }
+                    values {
+                      number_value: -0.0356876217
+                    }
+                    values {
+                      number_value: -0.00348757766
+                    }
+                    values {
+                      number_value: 0.0345131531
+                    }
+                    values {
+                      number_value: -0.0140783014
+                    }
+                    values {
+                      number_value: -0.0235033948
+                    }
+                    values {
+                      number_value: -0.0194752514
+                    }
+                    values {
+                      number_value: 0.00587668037
+                    }
+                    values {
+                      number_value: -0.0171140358
+                    }
+                    values {
+                      number_value: -0.0131423539
+                    }
+                    values {
+                      number_value: -0.0170198716
+                    }
+                    values {
+                      number_value: -0.0113072442
+                    }
+                    values {
+                      number_value: 0.00760174
+                    }
+                    values {
+                      number_value: -0.0416502059
+                    }
+                    values {
+                      number_value: 0.0188047681
+                    }
+                    values {
+                      number_value: -0.0208438858
+                    }
+                    values {
+                      number_value: 0.0342858545
+                    }
+                    values {
+                      number_value: 0.00203906535
+                    }
+                    values {
+                      number_value: 0.015336954
+                    }
+                    values {
+                      number_value: 0.0214668903
+                    }
+                    values {
+                      number_value: -0.0306680463
+                    }
+                    values {
+                      number_value: 0.00425934605
+                    }
+                    values {
+                      number_value: 0.0183410291
+                    }
+                    values {
+                      number_value: -0.00595908752
+                    }
+                    values {
+                      number_value: -0.00133981626
+                    }
+                    values {
+                      number_value: 0.00276039075
+                    }
+                    values {
+                      number_value: -0.0286659449
+                    }
+                    values {
+                      number_value: -0.00366166793
+                    }
+                    values {
+                      number_value: -0.0118841697
+                    }
+                    values {
+                      number_value: -0.00332941115
+                    }
+                    values {
+                      number_value: -0.0186614599
+                    }
+                    values {
+                      number_value: -0.0468798652
+                    }
+                    values {
+                      number_value: -0.00982870348
+                    }
+                    values {
+                      number_value: -0.0351815782
+                    }
+                    values {
+                      number_value: 0.00153274229
+                    }
+                    values {
+                      number_value: 0.00853903871
+                    }
+                    values {
+                      number_value: -0.0104223751
+                    }
+                    values {
+                      number_value: -0.00472016213
+                    }
+                    values {
+                      number_value: -0.0275826454
+                    }
+                    values {
+                      number_value: -0.00147301389
+                    }
+                    values {
+                      number_value: -0.00693831965
+                    }
+                    values {
+                      number_value: 0.0152318459
+                    }
+                    values {
+                      number_value: -0.0470818616
+                    }
+                    values {
+                      number_value: 0.0150099061
+                    }
+                    values {
+                      number_value: -0.023500558
+                    }
+                    values {
+                      number_value: 0.0261792578
+                    }
+                    values {
+                      number_value: -0.00389219867
+                    }
+                    values {
+                      number_value: 0.0209182333
+                    }
+                    values {
+                      number_value: -0.00673560426
+                    }
+                    values {
+                      number_value: 0.0129204728
+                    }
+                    values {
+                      number_value: 0.0043546469
+                    }
+                    values {
+                      number_value: -0.00364229945
+                    }
+                    values {
+                      number_value: 0.00528941117
+                    }
+                    values {
+                      number_value: -0.0298441034
+                    }
+                    values {
+                      number_value: -0.0352387577
+                    }
+                    values {
+                      number_value: 0.017537782
+                    }
+                    values {
+                      number_value: -0.010018
+                    }
+                    values {
+                      number_value: -0.00901456457
+                    }
+                    values {
+                      number_value: 0.00844446849
+                    }
+                    values {
+                      number_value: -0.0129100522
+                    }
+                    values {
+                      number_value: 0.0146625191
+                    }
+                    values {
+                      number_value: -0.00557712605
+                    }
+                    values {
+                      number_value: 0.0151392492
+                    }
+                    values {
+                      number_value: -0.0219511669
+                    }
+                    values {
+                      number_value: -0.00865640212
+                    }
+                    values {
+                      number_value: 0.0296852812
+                    }
+                    values {
+                      number_value: 0.0141378148
+                    }
+                    values {
+                      number_value: -0.00269589154
+                    }
+                    values {
+                      number_value: -0.00333019183
+                    }
+                    values {
+                      number_value: -0.00896278303
+                    }
+                    values {
+                      number_value: -0.0102360761
+                    }
+                    values {
+                      number_value: 0.0157670472
+                    }
+                    values {
+                      number_value: -0.0243152231
+                    }
+                    values {
+                      number_value: -0.000596669503
+                    }
+                    values {
+                      number_value: 0.00566202868
+                    }
+                    values {
+                      number_value: -0.0156421643
+                    }
+                    values {
+                      number_value: -0.0448066965
+                    }
+                    values {
+                      number_value: 0.00355359726
+                    }
+                    values {
+                      number_value: -0.00817814376
+                    }
+                    values {
+                      number_value: 0.0204527862
+                    }
+                    values {
+                      number_value: 0.00883963238
+                    }
+                    values {
+                      number_value: -0.0115843844
+                    }
+                    values {
+                      number_value: -0.021382384
+                    }
+                    values {
+                      number_value: -0.0254872609
+                    }
+                    values {
+                      number_value: 0.0303954184
+                    }
+                    values {
+                      number_value: 0.0108659547
+                    }
+                    values {
+                      number_value: -0.000462652941
+                    }
+                    values {
+                      number_value: 0.0312869772
+                    }
+                    values {
+                      number_value: 0.015709
+                    }
+                    values {
+                      number_value: -0.0273505617
+                    }
+                    values {
+                      number_value: -0.00409980398
+                    }
+                    values {
+                      number_value: -0.00873058755
+                    }
+                    values {
+                      number_value: 0.00356291607
+                    }
+                    values {
+                      number_value: 0.0349833295
+                    }
+                    values {
+                      number_value: -0.0127992816
+                    }
+                    values {
+                      number_value: 0.0176725127
+                    }
+                    values {
+                      number_value: 0.0347897783
+                    }
+                    values {
+                      number_value: 0.0350026563
+                    }
+                    values {
+                      number_value: -0.0226479471
+                    }
+                    values {
+                      number_value: 0.0175759699
+                    }
+                    values {
+                      number_value: -0.0331395566
+                    }
+                    values {
+                      number_value: 0.0227137078
+                    }
+                    values {
+                      number_value: -0.0238136593
+                    }
+                    values {
+                      number_value: 0.026915228
+                    }
+                    values {
+                      number_value: -0.00686305482
+                    }
+                    values {
+                      number_value: -0.014329494
+                    }
+                    values {
+                      number_value: -0.020517353
+                    }
+                    values {
+                      number_value: -0.044883538
+                    }
+                    values {
+                      number_value: 0.00730241695
+                    }
+                    values {
+                      number_value: -0.000807348115
+                    }
+                    values {
+                      number_value: 0.0128890993
+                    }
+                    values {
+                      number_value: -0.0251763128
+                    }
+                    values {
+                      number_value: -0.0025161982
+                    }
+                    values {
+                      number_value: -0.0251977295
+                    }
+                    values {
+                      number_value: 0.0251629427
+                    }
+                    values {
+                      number_value: 0.00933206268
+                    }
+                    values {
+                      number_value: 0.026810471
+                    }
+                    values {
+                      number_value: 0.00805165432
+                    }
+                    values {
+                      number_value: -0.018502133
+                    }
+                    values {
+                      number_value: 0.0101965619
+                    }
+                    values {
+                      number_value: -0.0289085
+                    }
+                    values {
+                      number_value: 0.041524604
+                    }
+                    values {
+                      number_value: -0.0188115723
+                    }
+                    values {
+                      number_value: -0.0077944221
+                    }
+                    values {
+                      number_value: -0.0256998669
+                    }
+                    values {
+                      number_value: 0.0127329454
+                    }
+                    values {
+                      number_value: 0.0109214159
+                    }
+                    values {
+                      number_value: -0.0066400934
+                    }
+                    values {
+                      number_value: -0.0322842859
+                    }
+                    values {
+                      number_value: 0.00866614655
+                    }
+                    values {
+                      number_value: 0.0171589237
+                    }
+                    values {
+                      number_value: 0.0205239952
+                    }
+                    values {
+                      number_value: 0.00139402796
+                    }
+                    values {
+                      number_value: 0.00596569711
+                    }
+                    values {
+                      number_value: -0.00370285846
+                    }
+                    values {
+                      number_value: 0.000600728265
+                    }
+                    values {
+                      number_value: -0.00481267
+                    }
+                    values {
+                      number_value: 0.0383043066
+                    }
+                    values {
+                      number_value: -0.0483462811
+                    }
+                    values {
+                      number_value: -0.00186833122
+                    }
+                    values {
+                      number_value: 0.0166635048
+                    }
+                    values {
+                      number_value: 0.0240278095
+                    }
+                    values {
+                      number_value: 0.0146563342
+                    }
+                    values {
+                      number_value: -0.0105075696
+                    }
+                    values {
+                      number_value: 0.0354595557
+                    }
+                    values {
+                      number_value: 0.00518199941
+                    }
+                    values {
+                      number_value: -0.0231084488
+                    }
+                    values {
+                      number_value: -0.0375655778
+                    }
+                    values {
+                      number_value: 0.0323374644
+                    }
+                    values {
+                      number_value: -0.0117655369
+                    }
+                    values {
+                      number_value: 0.0134118861
+                    }
+                    values {
+                      number_value: 0.0219223909
+                    }
+                    values {
+                      number_value: -0.00956851896
+                    }
+                    values {
+                      number_value: -0.0134015949
+                    }
+                    values {
+                      number_value: -0.0149354516
+                    }
+                    values {
+                      number_value: 0.0132753383
+                    }
+                    values {
+                      number_value: 0.00417961646
+                    }
+                    values {
+                      number_value: -0.035808634
+                    }
+                    values {
+                      number_value: -0.00805832725
+                    }
+                    values {
+                      number_value: -0.0146792689
+                    }
+                    values {
+                      number_value: -0.0365268663
+                    }
+                    values {
+                      number_value: -0.0049285884
+                    }
+                    values {
+                      number_value: -0.000552550599
+                    }
+                    values {
+                      number_value: -0.0325915068
+                    }
+                    values {
+                      number_value: -0.00983495
+                    }
+                    values {
+                      number_value: 0.0214083586
+                    }
+                    values {
+                      number_value: 0.00546558481
+                    }
+                    values {
+                      number_value: -0.00788313709
+                    }
+                    values {
+                      number_value: -0.0293375868
+                    }
+                    values {
+                      number_value: -0.0227390826
+                    }
+                    values {
+                      number_value: -0.00637132674
+                    }
+                    values {
+                      number_value: -0.000867029186
+                    }
+                    values {
+                      number_value: 0.0217615664
+                    }
+                    values {
+                      number_value: 0.0228923224
+                    }
+                    values {
+                      number_value: 0.00581608899
+                    }
+                    values {
+                      number_value: 0.0156451631
+                    }
+                    values {
+                      number_value: -0.00249761692
+                    }
+                    values {
+                      number_value: -0.00274303765
+                    }
+                    values {
+                      number_value: 0.00599519163
+                    }
+                    values {
+                      number_value: -0.0303661879
+                    }
+                    values {
+                      number_value: 0.011420046
+                    }
+                    values {
+                      number_value: -0.00173738576
+                    }
+                    values {
+                      number_value: -0.00952608418
+                    }
+                    values {
+                      number_value: -0.0425846279
+                    }
+                    values {
+                      number_value: 0.0246754922
+                    }
+                    values {
+                      number_value: -0.00160877488
+                    }
+                    values {
+                      number_value: 0.0519624427
+                    }
+                    values {
+                      number_value: 0.0144633753
+                    }
+                    values {
+                      number_value: -0.00885268487
+                    }
+                    values {
+                      number_value: -0.0195866842
+                    }
+                    values {
+                      number_value: -0.00672599161
+                    }
+                    values {
+                      number_value: -0.00888646953
+                    }
+                    values {
+                      number_value: 0.0123563921
+                    }
+                    values {
+                      number_value: -0.00693490822
+                    }
+                    values {
+                      number_value: 0.00601860648
+                    }
+                    values {
+                      number_value: -0.00968894083
+                    }
+                    values {
+                      number_value: -0.0206903219
+                    }
+                    values {
+                      number_value: -0.00165014574
+                    }
+                    values {
+                      number_value: -0.0189348496
+                    }
+                    values {
+                      number_value: -0.00839944463
+                    }
+                    values {
+                      number_value: -0.00599764707
+                    }
+                    values {
+                      number_value: 0.0148826642
+                    }
+                    values {
+                      number_value: -0.0193282776
+                    }
+                    values {
+                      number_value: -0.0360754058
+                    }
+                    values {
+                      number_value: -0.0114883445
+                    }
+                    values {
+                      number_value: -0.0499326512
+                    }
+                    values {
+                      number_value: -0.00981752761
+                    }
+                    values {
+                      number_value: 0.0350918509
+                    }
+                    values {
+                      number_value: 0.0118746553
+                    }
+                    values {
+                      number_value: 0.0059533692
+                    }
+                    values {
+                      number_value: 0.0174172074
+                    }
+                    values {
+                      number_value: 0.0155933229
+                    }
+                    values {
+                      number_value: 0.0269013885
+                    }
+                    values {
+                      number_value: 0.0343945697
+                    }
+                    values {
+                      number_value: -0.00710576214
+                    }
+                    values {
+                      number_value: 0.0165059101
+                    }
+                    values {
+                      number_value: -0.0245146509
+                    }
+                    values {
+                      number_value: -0.0244327672
+                    }
+                    values {
+                      number_value: -0.0010155543
+                    }
+                    values {
+                      number_value: 0.0309240166
+                    }
+                    values {
+                      number_value: 0.000939761
+                    }
+                    values {
+                      number_value: 0.00808920618
+                    }
+                    values {
+                      number_value: -0.0181100406
+                    }
+                    values {
+                      number_value: -0.00813097693
+                    }
+                    values {
+                      number_value: 0.0197908916
+                    }
+                    values {
+                      number_value: -0.0157573204
+                    }
+                    values {
+                      number_value: 0.010753396
+                    }
+                    values {
+                      number_value: 0.0199522283
+                    }
+                    values {
+                      number_value: 0.0173525978
+                    }
+                    values {
+                      number_value: -0.271071613
+                    }
+                    values {
+                      number_value: -0.00444275048
+                    }
+                    values {
+                      number_value: 0.00269656791
+                    }
+                    values {
+                      number_value: -0.0224490557
+                    }
+                    values {
+                      number_value: 0.0291916076
+                    }
+                    values {
+                      number_value: 0.00182709249
+                    }
+                    values {
+                      number_value: 0.00931803882
+                    }
+                    values {
+                      number_value: 0.0101891356
+                    }
+                    values {
+                      number_value: 0.0065253037
+                    }
+                    values {
+                      number_value: -0.0274109785
+                    }
+                    values {
+                      number_value: -0.0162784606
+                    }
+                    values {
+                      number_value: 0.0413579792
+                    }
+                    values {
+                      number_value: -0.290200174
+                    }
+                    values {
+                      number_value: -0.0173211917
+                    }
+                    values {
+                      number_value: -0.0206407104
+                    }
+                    values {
+                      number_value: 0.00844902
+                    }
+                    values {
+                      number_value: -0.0113791507
+                    }
+                    values {
+                      number_value: 0.0508074202
+                    }
+                    values {
+                      number_value: 0.0113210911
+                    }
+                    values {
+                      number_value: 0.0061247237
+                    }
+                    values {
+                      number_value: -0.0313324742
+                    }
+                    values {
+                      number_value: 0.0221717861
+                    }
+                    values {
+                      number_value: 0.00480188569
+                    }
+                    values {
+                      number_value: -0.00771440472
+                    }
+                    values {
+                      number_value: -0.00398436515
+                    }
+                    values {
+                      number_value: -0.00422899937
+                    }
+                    values {
+                      number_value: -0.0207806695
+                    }
+                    values {
+                      number_value: 0.00182941009
+                    }
+                    values {
+                      number_value: -0.0194164421
+                    }
+                    values {
+                      number_value: 0.0102870297
+                    }
+                    values {
+                      number_value: 0.0113372169
+                    }
+                    values {
+                      number_value: 0.0159623716
+                    }
+                    values {
+                      number_value: -0.0176324118
+                    }
+                    values {
+                      number_value: 0.00305064418
+                    }
+                    values {
+                      number_value: -0.0403126553
+                    }
+                    values {
+                      number_value: -0.0215820726
+                    }
+                    values {
+                      number_value: -0.00362051395
+                    }
+                    values {
+                      number_value: 0.0013326105
+                    }
+                    values {
+                      number_value: -0.0289817229
+                    }
+                    values {
+                      number_value: 0.000171204185
+                    }
+                    values {
+                      number_value: 0.0136673432
+                    }
+                    values {
+                      number_value: 0.00253487495
+                    }
+                    values {
+                      number_value: 0.00449215341
+                    }
+                    values {
+                      number_value: -0.0224618968
+                    }
+                    values {
+                      number_value: -0.0181491245
+                    }
+                    values {
+                      number_value: 0.0177755058
+                    }
+                    values {
+                      number_value: 0.00898253266
+                    }
+                    values {
+                      number_value: -0.0303495377
+                    }
+                    values {
+                      number_value: -0.0212981906
+                    }
+                    values {
+                      number_value: -0.0840505585
+                    }
+                    values {
+                      number_value: -0.0130184395
+                    }
+                    values {
+                      number_value: -0.0300499834
+                    }
+                    values {
+                      number_value: 0.0122908959
+                    }
+                    values {
+                      number_value: -0.011302392
+                    }
+                    values {
+                      number_value: 0.00413198723
+                    }
+                    values {
+                      number_value: 0.0471426584
+                    }
+                    values {
+                      number_value: -0.0120154154
+                    }
+                    values {
+                      number_value: -0.0145952962
+                    }
+                    values {
+                      number_value: 0.0396224335
+                    }
+                    values {
+                      number_value: 0.000948323053
+                    }
+                    values {
+                      number_value: 0.0108602429
+                    }
+                    values {
+                      number_value: 0.00883729383
+                    }
+                    values {
+                      number_value: -0.016381111
+                    }
+                    values {
+                      number_value: 0.0179205034
+                    }
+                    values {
+                      number_value: 0.0224455353
+                    }
+                    values {
+                      number_value: 0.00102800294
+                    }
+                    values {
+                      number_value: 0.0184768476
+                    }
+                    values {
+                      number_value: 0.0109443944
+                    }
+                    values {
+                      number_value: 0.0364118889
+                    }
+                    values {
+                      number_value: 0.00352127058
+                    }
+                    values {
+                      number_value: -0.0285697263
+                    }
+                    values {
+                      number_value: 0.00899832416
+                    }
+                    values {
+                      number_value: -0.00252806558
+                    }
+                    values {
+                      number_value: 0.00944103487
+                    }
+                    values {
+                      number_value: 0.00526442239
+                    }
+                    values {
+                      number_value: 0.00361304334
+                    }
+                    values {
+                      number_value: -0.0148880435
+                    }
+                    values {
+                      number_value: -0.0399286449
+                    }
+                    values {
+                      number_value: -0.0364186019
+                    }
+                    values {
+                      number_value: -0.0310302917
+                    }
+                    values {
+                      number_value: -0.0438522771
+                    }
+                    values {
+                      number_value: -0.020432407
+                    }
+                    values {
+                      number_value: 0.0256720781
+                    }
+                    values {
+                      number_value: -0.0159996822
+                    }
+                    values {
+                      number_value: -0.0014653902
+                    }
+                    values {
+                      number_value: -0.0213153325
+                    }
+                    values {
+                      number_value: -0.00469055679
+                    }
+                    values {
+                      number_value: -0.0303646754
+                    }
+                    values {
+                      number_value: -0.18388851
+                    }
+                    values {
+                      number_value: -0.0106626712
+                    }
+                    values {
+                      number_value: 0.0143943112
+                    }
+                    values {
+                      number_value: -0.0336932167
+                    }
+                    values {
+                      number_value: 0.0409565866
+                    }
+                    values {
+                      number_value: 0.0117813442
+                    }
+                    values {
+                      number_value: -0.0114237852
+                    }
+                    values {
+                      number_value: -0.012849777
+                    }
+                    values {
+                      number_value: 0.00478125643
+                    }
+                    values {
+                      number_value: -0.0252872258
+                    }
+                    values {
+                      number_value: 0.0206585471
+                    }
+                    values {
+                      number_value: -0.0115549639
+                    }
+                    values {
+                      number_value: -0.0412344
+                    }
+                    values {
+                      number_value: -0.00160875882
+                    }
+                    values {
+                      number_value: 0.0178689081
+                    }
+                    values {
+                      number_value: 0.0074255974
+                    }
+                    values {
+                      number_value: 0.0235024225
+                    }
+                    values {
+                      number_value: -0.0160050597
+                    }
+                    values {
+                      number_value: -0.0257176068
+                    }
+                    values {
+                      number_value: 0.00995228253
+                    }
+                    values {
+                      number_value: -0.031546846
+                    }
+                    values {
+                      number_value: -0.00169970072
+                    }
+                    values {
+                      number_value: -0.00719147362
+                    }
+                    values {
+                      number_value: 0.0301711056
+                    }
+                    values {
+                      number_value: -0.00955753587
+                    }
+                    values {
+                      number_value: 0.0129836621
+                    }
+                    values {
+                      number_value: 0.0114035578
+                    }
+                    values {
+                      number_value: 0.00616234913
+                    }
+                    values {
+                      number_value: 0.0175412577
+                    }
+                    values {
+                      number_value: 0.0220411457
+                    }
+                    values {
+                      number_value: -0.0458339565
+                    }
+                    values {
+                      number_value: 0.011711699
+                    }
+                    values {
+                      number_value: -0.000908640155
+                    }
+                    values {
+                      number_value: 0.0185763799
+                    }
+                    values {
+                      number_value: 0.022222694
+                    }
+                    values {
+                      number_value: 0.00174036401
+                    }
+                    values {
+                      number_value: 0.0265918858
+                    }
+                    values {
+                      number_value: 0.0143743791
+                    }
+                    values {
+                      number_value: 0.0192238167
+                    }
+                    values {
+                      number_value: 0.00703156693
+                    }
+                    values {
+                      number_value: -0.0219394937
+                    }
+                    values {
+                      number_value: 0.0234073568
+                    }
+                    values {
+                      number_value: 0.0155877955
+                    }
+                    values {
+                      number_value: 0.0121510075
+                    }
+                    values {
+                      number_value: 0.0161994696
+                    }
+                    values {
+                      number_value: -0.00910656
+                    }
+                    values {
+                      number_value: -0.0321946144
+                    }
+                    values {
+                      number_value: 0.0347165726
+                    }
+                    values {
+                      number_value: -0.0139479535
+                    }
+                    values {
+                      number_value: -0.0143644949
+                    }
+                    values {
+                      number_value: -0.0155557217
+                    }
+                    values {
+                      number_value: -0.0213003326
+                    }
+                    values {
+                      number_value: 0.0141998632
+                    }
+                    values {
+                      number_value: -0.00805488788
+                    }
+                    values {
+                      number_value: 0.0440950803
+                    }
+                    values {
+                      number_value: -0.035639815
+                    }
+                    values {
+                      number_value: -0.0105158156
+                    }
+                    values {
+                      number_value: -0.0187498722
+                    }
+                    values {
+                      number_value: 0.00719555048
+                    }
+                    values {
+                      number_value: 0.0177529
+                    }
+                    values {
+                      number_value: 0.00672815694
+                    }
+                    values {
+                      number_value: 0.0367770754
+                    }
+                    values {
+                      number_value: 0.0256584492
+                    }
+                    values {
+                      number_value: 0.0144512961
+                    }
+                    values {
+                      number_value: -0.0174567979
+                    }
+                    values {
+                      number_value: -0.0200565886
+                    }
+                    values {
+                      number_value: -0.0206502229
+                    }
+                    values {
+                      number_value: -0.0186824985
+                    }
+                    values {
+                      number_value: 0.000716453593
+                    }
+                    values {
+                      number_value: 0.0282778833
+                    }
+                    values {
+                      number_value: 0.0164496526
+                    }
+                    values {
+                      number_value: 0.00151768443
+                    }
+                    values {
+                      number_value: 0.0117747523
+                    }
+                    values {
+                      number_value: 0.0117123146
+                    }
+                    values {
+                      number_value: 0.125110507
+                    }
+                    values {
+                      number_value: 0.00967686716
+                    }
+                    values {
+                      number_value: 0.0126512954
+                    }
+                    values {
+                      number_value: -0.00878561381
+                    }
+                    values {
+                      number_value: -0.0108498735
+                    }
+                    values {
+                      number_value: -0.0183308721
+                    }
+                    values {
+                      number_value: -0.0194382258
+                    }
+                    values {
+                      number_value: 0.0190496612
+                    }
+                    values {
+                      number_value: -0.0090225311
+                    }
+                    values {
+                      number_value: 0.0153442789
+                    }
+                    values {
+                      number_value: -0.038365826
+                    }
+                    values {
+                      number_value: 0.0100922044
+                    }
+                    values {
+                      number_value: -0.0223854594
+                    }
+                    values {
+                      number_value: 0.0224178582
+                    }
+                    values {
+                      number_value: -0.00565759
+                    }
+                    values {
+                      number_value: 0.01728951
+                    }
+                    values {
+                      number_value: 0.0218994897
+                    }
+                    values {
+                      number_value: -0.021458922
+                    }
+                    values {
+                      number_value: 0.0187150519
+                    }
+                    values {
+                      number_value: 0.00831636321
+                    }
+                    values {
+                      number_value: 0.0210918263
+                    }
+                    values {
+                      number_value: 0.0143166129
+                    }
+                    values {
+                      number_value: 0.00672777137
+                    }
+                    values {
+                      number_value: 0.00266078743
+                    }
+                    values {
+                      number_value: 0.0090702856
+                    }
+                    values {
+                      number_value: 0.0296950378
+                    }
+                    values {
+                      number_value: -0.0233268589
+                    }
+                    values {
+                      number_value: -0.0417396538
+                    }
+                    values {
+                      number_value: -0.0295200814
+                    }
+                    values {
+                      number_value: 0.018103214
+                    }
+                    values {
+                      number_value: 0.0289070681
+                    }
+                    values {
+                      number_value: -0.0185644496
+                    }
+                    values {
+                      number_value: -0.00893217605
+                    }
+                    values {
+                      number_value: 0.0174835976
+                    }
+                    values {
+                      number_value: 0.0091599822
+                    }
+                    values {
+                      number_value: -0.00425924221
+                    }
+                    values {
+                      number_value: 0.0231617652
+                    }
+                    values {
+                      number_value: -0.00814998057
+                    }
+                    values {
+                      number_value: -0.0373347253
+                    }
+                    values {
+                      number_value: 0.0117935333
+                    }
+                    values {
+                      number_value: -0.00378218293
+                    }
+                    values {
+                      number_value: -0.00319317798
+                    }
+                    values {
+                      number_value: -0.0107529275
+                    }
+                    values {
+                      number_value: -0.0254962966
+                    }
+                    values {
+                      number_value: -0.023398906
+                    }
+                    values {
+                      number_value: -0.0394230522
+                    }
+                    values {
+                      number_value: -0.0522083752
+                    }
+                    values {
+                      number_value: -0.0190741085
+                    }
+                    values {
+                      number_value: -0.00531603955
+                    }
+                    values {
+                      number_value: -0.0273793023
+                    }
+                    values {
+                      number_value: -0.0211043805
+                    }
+                    values {
+                      number_value: -0.0231492892
+                    }
+                    values {
+                      number_value: 0.00767816883
+                    }
+                    values {
+                      number_value: 0.00793060102
+                    }
+                    values {
+                      number_value: 0.0228344053
+                    }
+                    values {
+                      number_value: 0.0045505478
+                    }
+                    values {
+                      number_value: -0.0458241887
+                    }
+                    values {
+                      number_value: 0.000623364
+                    }
+                    values {
+                      number_value: -0.026021868
+                    }
+                    values {
+                      number_value: 0.0128873149
+                    }
+                    values {
+                      number_value: -0.00639722124
+                    }
+                    values {
+                      number_value: -0.00822085
+                    }
+                    values {
+                      number_value: -0.0299834684
+                    }
+                    values {
+                      number_value: -0.00937598
+                    }
+                    values {
+                      number_value: -0.0279223379
+                    }
+                    values {
+                      number_value: -0.0183514673
+                    }
+                    values {
+                      number_value: 0.0253768042
+                    }
+                    values {
+                      number_value: 0.0086023109
+                    }
+                    values {
+                      number_value: 0.044046063
+                    }
+                    values {
+                      number_value: 0.0217507388
+                    }
+                    values {
+                      number_value: 0.0176110473
+                    }
+                    values {
+                      number_value: -0.0214849841
+                    }
+                    values {
+                      number_value: -0.00957304
+                    }
+                    values {
+                      number_value: -0.0434838869
+                    }
+                    values {
+                      number_value: 0.0198223684
+                    }
+                    values {
+                      number_value: 0.0182213373
+                    }
+                    values {
+                      number_value: -0.0300585888
+                    }
+                    values {
+                      number_value: 0.00956204068
+                    }
+                    values {
+                      number_value: -0.029350549
+                    }
+                    values {
+                      number_value: 0.0193210915
+                    }
+                    values {
+                      number_value: 0.0188924819
+                    }
+                    values {
+                      number_value: -0.0253890641
+                    }
+                    values {
+                      number_value: -0.0183594469
+                    }
+                    values {
+                      number_value: 0.0290260818
+                    }
+                    values {
+                      number_value: -0.0224651862
+                    }
+                    values {
+                      number_value: 0.0150560951
+                    }
+                    values {
+                      number_value: -0.0468453802
+                    }
+                    values {
+                      number_value: -0.00913379341
+                    }
+                    values {
+                      number_value: 0.0027781087
+                    }
+                    values {
+                      number_value: 0.0334296338
+                    }
+                    values {
+                      number_value: 0.0139324041
+                    }
+                    values {
+                      number_value: 0.00212564575
+                    }
+                    values {
+                      number_value: 0.0170571432
+                    }
+                    values {
+                      number_value: -0.0212933086
+                    }
+                    values {
+                      number_value: -0.0189866424
+                    }
+                    values {
+                      number_value: -0.0367396511
+                    }
+                    values {
+                      number_value: 0.000868017902
+                    }
+                    values {
+                      number_value: -0.015611073
+                    }
+                    values {
+                      number_value: 0.018618647
+                    }
+                    values {
+                      number_value: -0.00315265055
+                    }
+                    values {
+                      number_value: -0.050208196
+                    }
+                    values {
+                      number_value: 0.0219401773
+                    }
+                    values {
+                      number_value: -0.0279518589
+                    }
+                    values {
+                      number_value: 0.0381672606
+                    }
+                    values {
+                      number_value: 0.000820451649
+                    }
+                    values {
+                      number_value: -0.060118
+                    }
+                    values {
+                      number_value: 0.000755216461
+                    }
+                    values {
+                      number_value: -0.0285432
+                    }
+                    values {
+                      number_value: -0.0221030582
+                    }
+                    values {
+                      number_value: -0.00934546441
+                    }
+                    values {
+                      number_value: -0.000176259782
+                    }
+                    values {
+                      number_value: 0.0177952498
+                    }
+                    values {
+                      number_value: -0.0310623012
+                    }
+                    values {
+                      number_value: 0.0163856708
+                    }
+                    values {
+                      number_value: -0.0124166245
+                    }
+                    values {
+                      number_value: -0.00936056953
+                    }
+                    values {
+                      number_value: 0.0101801548
+                    }
+                    values {
+                      number_value: 0.00510427076
+                    }
+                    values {
+                      number_value: 0.0146170715
+                    }
+                    values {
+                      number_value: 0.0175235942
+                    }
+                    values {
+                      number_value: 0.0174044687
+                    }
+                    values {
+                      number_value: -0.0543112196
+                    }
+                    values {
+                      number_value: 0.0159320217
+                    }
+                    values {
+                      number_value: 0.0129548488
+                    }
+                    values {
+                      number_value: -0.0019831541
+                    }
+                    values {
+                      number_value: -8.14774248e-05
+                    }
+                    values {
+                      number_value: -0.00425617862
+                    }
+                    values {
+                      number_value: -0.0182282645
+                    }
+                    values {
+                      number_value: 0.00886228774
+                    }
+                    values {
+                      number_value: 0.0127023058
+                    }
+                    values {
+                      number_value: -0.00263616676
+                    }
+                    values {
+                      number_value: -0.0266678073
+                    }
+                    values {
+                      number_value: 0.0434504673
+                    }
+                    values {
+                      number_value: 0.0449746288
+                    }
+                    values {
+                      number_value: 0.0240248088
+                    }
+                    values {
+                      number_value: 0.0238929093
+                    }
+                    values {
+                      number_value: -0.0062044207
+                    }
+                    values {
+                      number_value: 0.0035193935
+                    }
+                    values {
+                      number_value: 0.00573726045
+                    }
+                    values {
+                      number_value: -0.00663599791
+                    }
+                    values {
+                      number_value: -0.0323637389
+                    }
+                    values {
+                      number_value: 0.00297300867
+                    }
+                    values {
+                      number_value: -0.0401910767
+                    }
+                    values {
+                      number_value: -0.00222392241
+                    }
+                    values {
+                      number_value: -0.00346536911
+                    }
+                    values {
+                      number_value: -0.0125617059
+                    }
+                    values {
+                      number_value: -0.00501424773
+                    }
+                    values {
+                      number_value: 0.00454197498
+                    }
+                    values {
+                      number_value: -0.0157357268
+                    }
+                    values {
+                      number_value: -0.0179326814
+                    }
+                    values {
+                      number_value: 0.0362305269
+                    }
+                    values {
+                      number_value: -0.039594382
+                    }
+                    values {
+                      number_value: 0.0122674005
+                    }
+                    values {
+                      number_value: -0.0233375039
+                    }
+                    values {
+                      number_value: -0.00100915192
+                    }
+                    values {
+                      number_value: -0.0279735122
+                    }
+                    values {
+                      number_value: 0.0100912033
+                    }
+                    values {
+                      number_value: -0.0343273766
+                    }
+                    values {
+                      number_value: 0.00867594127
+                    }
+                    values {
+                      number_value: -0.0333973467
+                    }
+                    values {
+                      number_value: -0.00900114141
+                    }
+                    values {
+                      number_value: 0.0178305954
+                    }
+                    values {
+                      number_value: -0.00886760838
+                    }
+                    values {
+                      number_value: 0.034626931
+                    }
+                    values {
+                      number_value: 0.025302764
+                    }
+                    values {
+                      number_value: 0.0242949072
+                    }
+                    values {
+                      number_value: 0.0400615558
+                    }
+                    values {
+                      number_value: 0.00856967364
+                    }
+                    values {
+                      number_value: 0.0107862893
+                    }
+                    values {
+                      number_value: 0.0305734854
+                    }
+                    values {
+                      number_value: 0.0257010367
+                    }
+                    values {
+                      number_value: -0.000830722216
+                    }
+                    values {
+                      number_value: -0.0180507228
+                    }
+                    values {
+                      number_value: 0.00229323516
+                    }
+                    values {
+                      number_value: 0.0133576347
+                    }
+                    values {
+                      number_value: 0.0140345516
+                    }
+                    values {
+                      number_value: 0.00115994446
+                    }
+                    values {
+                      number_value: 0.0206180532
+                    }
+                    values {
+                      number_value: -0.0146336164
+                    }
+                    values {
+                      number_value: 0.0018728259
+                    }
+                    values {
+                      number_value: 0.00283544557
+                    }
+                    values {
+                      number_value: -0.0215189066
+                    }
+                    values {
+                      number_value: -0.0217268188
+                    }
+                    values {
+                      number_value: -0.0459048264
+                    }
+                    values {
+                      number_value: -0.0179567058
+                    }
+                    values {
+                      number_value: -0.0268858019
+                    }
+                    values {
+                      number_value: -0.0134959966
+                    }
+                    values {
+                      number_value: 0.028617125
+                    }
+                    values {
+                      number_value: -0.0207090639
+                    }
+                    values {
+                      number_value: 0.0156431608
+                    }
+                    values {
+                      number_value: 0.00751788775
+                    }
+                    values {
+                      number_value: 0.0394668728
+                    }
+                    values {
+                      number_value: -0.0156217134
+                    }
+                    values {
+                      number_value: -0.0329690315
+                    }
+                    values {
+                      number_value: 0.00378660019
+                    }
+                    values {
+                      number_value: 0.0461514145
+                    }
+                    values {
+                      number_value: 0.000338959653
+                    }
+                    values {
+                      number_value: 0.023649253
+                    }
+                    values {
+                      number_value: 0.0269607026
+                    }
+                    values {
+                      number_value: 0.0304815229
+                    }
+                    values {
+                      number_value: 0.00427059224
+                    }
+                    values {
+                      number_value: -0.0112643978
+                    }
+                    values {
+                      number_value: 0.0220381152
+                    }
+                    values {
+                      number_value: -0.0118382052
+                    }
+                    values {
+                      number_value: 0.0195709411
+                    }
+                    values {
+                      number_value: 0.0352958292
+                    }
+                    values {
+                      number_value: 0.0113583012
+                    }
+                    values {
+                      number_value: 0.0195944887
+                    }
+                    values {
+                      number_value: -0.00207773247
+                    }
+                    values {
+                      number_value: -0.0100800702
+                    }
+                    values {
+                      number_value: 0.0365581028
+                    }
+                    values {
+                      number_value: -0.00882975291
+                    }
+                    values {
+                      number_value: -0.00904616434
+                    }
+                    values {
+                      number_value: 0.0217907783
+                    }
+                    values {
+                      number_value: -0.00165353075
+                    }
+                    values {
+                      number_value: 0.0229750015
+                    }
+                    values {
+                      number_value: 0.0395107
+                    }
+                    values {
+                      number_value: 0.0124366637
+                    }
+                    values {
+                      number_value: 0.012106753
+                    }
+                    values {
+                      number_value: -0.0132936109
+                    }
+                    values {
+                      number_value: 0.00780374184
+                    }
+                    values {
+                      number_value: 0.0148528526
+                    }
+                    values {
+                      number_value: 0.00362297194
+                    }
+                    values {
+                      number_value: -0.0102541484
+                    }
+                    values {
+                      number_value: 0.00383515074
+                    }
+                    values {
+                      number_value: -0.0293446295
+                    }
+                    values {
+                      number_value: -0.0296919867
+                    }
+                    values {
+                      number_value: 0.00396665232
+                    }
+                    values {
+                      number_value: 0.00326113473
+                    }
+                    values {
+                      number_value: -0.0253664516
+                    }
+                    values {
+                      number_value: -0.017357938
+                    }
+                    values {
+                      number_value: -0.00368757383
+                    }
+                    values {
+                      number_value: -0.0339484215
+                    }
+                    values {
+                      number_value: 0.0247063208
+                    }
+                    values {
+                      number_value: 0.01721799
+                    }
+                    values {
+                      number_value: 0.00314130192
+                    }
+                    values {
+                      number_value: 0.0125233615
+                    }
+                    values {
+                      number_value: -0.0107965404
+                    }
+                    values {
+                      number_value: -0.011525129
+                    }
+                    values {
+                      number_value: -0.054942444
+                    }
+                    values {
+                      number_value: 0.0259325448
+                    }
+                    values {
+                      number_value: 0.0179644115
+                    }
+                    values {
+                      number_value: -0.0193222277
+                    }
+                    values {
+                      number_value: 0.0181529727
+                    }
+                    values {
+                      number_value: 0.00370198674
+                    }
+                    values {
+                      number_value: -0.0148160411
+                    }
+                    values {
+                      number_value: -0.0191002078
+                    }
+                    values {
+                      number_value: -0.00654811412
+                    }
+                    values {
+                      number_value: -0.00424504746
+                    }
+                    values {
+                      number_value: -0.00678701745
+                    }
+                    values {
+                      number_value: -0.0245915595
+                    }
+                    values {
+                      number_value: -0.0183799844
+                    }
+                    values {
+                      number_value: -0.0131567884
+                    }
+                    values {
+                      number_value: 0.00467818277
+                    }
+                    values {
+                      number_value: 0.0057054176
+                    }
+                    values {
+                      number_value: 0.0481896251
+                    }
+                    values {
+                      number_value: 0.00909806509
+                    }
+                    values {
+                      number_value: 0.0292238761
+                    }
+                    values {
+                      number_value: -0.0447889231
+                    }
+                    values {
+                      number_value: -0.024876453
+                    }
+                    values {
+                      number_value: -0.00811542757
+                    }
+                    values {
+                      number_value: -0.0254561976
+                    }
+                    values {
+                      number_value: 0.0108285723
+                    }
+                    values {
+                      number_value: -0.0283300076
+                    }
+                    values {
+                      number_value: 0.0240764
+                    }
+                    values {
+                      number_value: 0.0215738397
+                    }
+                    values {
+                      number_value: 0.0173792802
+                    }
+                    values {
+                      number_value: -0.00454952754
+                    }
+                    values {
+                      number_value: -0.00239105034
+                    }
+                    values {
+                      number_value: 0.0365632735
+                    }
+                    values {
+                      number_value: -0.000666715
+                    }
+                    values {
+                      number_value: -0.0142762456
+                    }
+                    values {
+                      number_value: -0.05644954
+                    }
+                    values {
+                      number_value: -0.0168617219
+                    }
+                    values {
+                      number_value: 0.0380230471
+                    }
+                    values {
+                      number_value: -0.0153941037
+                    }
+                    values {
+                      number_value: 0.00724040437
+                    }
+                    values {
+                      number_value: -0.0129912486
+                    }
+                    values {
+                      number_value: -0.00774522685
+                    }
+                    values {
+                      number_value: -0.0245903339
+                    }
+                    values {
+                      number_value: 0.0243264697
+                    }
+                    values {
+                      number_value: 0.00510863541
+                    }
+                    values {
+                      number_value: -0.000803010364
+                    }
+                    values {
+                      number_value: -0.0437278524
+                    }
+                    values {
+                      number_value: 0.00709909899
+                    }
+                    values {
+                      number_value: -0.0194133446
+                    }
+                    values {
+                      number_value: 0.00940928049
+                    }
+                    values {
+                      number_value: -0.0135659827
+                    }
+                    values {
+                      number_value: 0.00375634222
+                    }
+                    values {
+                      number_value: 0.00145264552
+                    }
+                    values {
+                      number_value: -0.018532455
+                    }
+                    values {
+                      number_value: 0.0252781101
+                    }
+                    values {
+                      number_value: 0.0198241118
+                    }
+                    values {
+                      number_value: -0.0114933029
+                    }
+                    values {
+                      number_value: -0.00509032048
+                    }
+                    values {
+                      number_value: 0.0420750342
+                    }
+                    values {
+                      number_value: 0.0178216659
+                    }
+                    values {
+                      number_value: 0.0266881958
+                    }
+                    values {
+                      number_value: 0.0114530576
+                    }
+                    values {
+                      number_value: -0.00256568217
+                    }
+                    values {
+                      number_value: 0.0100018401
+                    }
+                    values {
+                      number_value: -0.00139165495
+                    }
+                    values {
+                      number_value: -0.00611112872
+                    }
+                    values {
+                      number_value: -0.00233062543
+                    }
+                    values {
+                      number_value: 0.000856903091
+                    }
+                    values {
+                      number_value: -0.0189744681
+                    }
+                    values {
+                      number_value: -0.0171717796
+                    }
+                    values {
+                      number_value: 0.0132085374
+                    }
+                    values {
+                      number_value: 0.0461555831
+                    }
+                    values {
+                      number_value: 0.0272682905
+                    }
+                    values {
+                      number_value: 0.00100406026
+                    }
+                    values {
+                      number_value: 0.000845918257
+                    }
+                    values {
+                      number_value: -0.00586058758
+                    }
+                    values {
+                      number_value: 0.00151802285
+                    }
+                    values {
+                      number_value: -0.00556611409
+                    }
+                    values {
+                      number_value: 0.0289910082
+                    }
+                    values {
+                      number_value: -0.0358573645
+                    }
+                    values {
+                      number_value: -0.0358918197
+                    }
+                    values {
+                      number_value: -0.0246564839
+                    }
+                    values {
+                      number_value: -0.00331818149
+                    }
+                    values {
+                      number_value: -0.00160917791
+                    }
+                    values {
+                      number_value: -0.0384010896
+                    }
+                    values {
+                      number_value: 0.00579348346
+                    }
+                    values {
+                      number_value: -0.00440618815
+                    }
+                    values {
+                      number_value: 0.00256147236
+                    }
+                    values {
+                      number_value: 0.00251037232
+                    }
+                    values {
+                      number_value: -0.0192071144
+                    }
+                    values {
+                      number_value: 0.0363352634
+                    }
+                    values {
+                      number_value: 0.00215405365
+                    }
+                    values {
+                      number_value: -0.00601225533
+                    }
+                    values {
+                      number_value: 0.0012995163
+                    }
+                    values {
+                      number_value: -0.021232048
+                    }
+                    values {
+                      number_value: -0.023460865
+                    }
+                    values {
+                      number_value: 0.0221506357
+                    }
+                    values {
+                      number_value: 0.0112456493
+                    }
+                    values {
+                      number_value: -0.00318550039
+                    }
+                    values {
+                      number_value: 0.0195931606
+                    }
+                    values {
+                      number_value: 0.00241563749
+                    }
+                    values {
+                      number_value: -0.018708948
+                    }
+                    values {
+                      number_value: -0.00970938522
+                    }
+                    values {
+                      number_value: -0.00611990923
+                    }
+                    values {
+                      number_value: 0.0659835488
+                    }
+                    values {
+                      number_value: 0.0180749409
+                    }
+                    values {
+                      number_value: -0.00826006383
+                    }
+                    values {
+                      number_value: 0.0282943416
+                    }
+                    values {
+                      number_value: 0.00935390219
+                    }
+                    values {
+                      number_value: -0.0149487508
+                    }
+                    values {
+                      number_value: -0.0261989366
+                    }
+                    values {
+                      number_value: 0.0506768897
+                    }
+                    values {
+                      number_value: -0.00471285125
+                    }
+                    values {
+                      number_value: -0.00659279432
+                    }
+                    values {
+                      number_value: -0.0134452451
+                    }
+                    values {
+                      number_value: -0.030301353
+                    }
+                    values {
+                      number_value: 0.00983228255
+                    }
+                    values {
+                      number_value: 0.0328632966
+                    }
+                    values {
+                      number_value: -0.0343595296
+                    }
+                    values {
+                      number_value: -0.00042694906
+                    }
+                    values {
+                      number_value: 0.0142712379
+                    }
+                    values {
+                      number_value: 0.0213780347
+                    }
+                    values {
+                      number_value: 0.00303714722
+                    }
+                    values {
+                      number_value: 0.010738845
+                    }
+                    values {
+                      number_value: -0.0726842731
+                    }
+                    values {
+                      number_value: -0.00638648868
+                    }
+                    values {
+                      number_value: -0.0105320625
+                    }
+                    values {
+                      number_value: -0.0342445336
+                    }
+                    values {
+                      number_value: 0.0170908011
+                    }
+                    values {
+                      number_value: -0.00604913
+                    }
+                    values {
+                      number_value: 0.00834200438
+                    }
+                    values {
+                      number_value: 0.00769748352
+                    }
+                    values {
+                      number_value: 0.000769297127
+                    }
+                    values {
+                      number_value: 0.0697144195
+                    }
+                    values {
+                      number_value: -0.0072654062
+                    }
+                    values {
+                      number_value: 0.0292068552
+                    }
+                    values {
+                      number_value: 0.00174208533
+                    }
+                    values {
+                      number_value: 0.00583315874
+                    }
+                    values {
+                      number_value: 0.000326941779
+                    }
+                    values {
+                      number_value: 0.0235966146
+                    }
+                    values {
+                      number_value: 0.0177393351
+                    }
+                    values {
+                      number_value: -0.00824800134
+                    }
+                    values {
+                      number_value: -0.0331096612
+                    }
+                    values {
+                      number_value: -0.00516284304
+                    }
+                    values {
+                      number_value: -0.0109048393
+                    }
+                    values {
+                      number_value: -0.00101029954
+                    }
+                    values {
+                      number_value: -0.0162731372
+                    }
+                    values {
+                      number_value: 0.0358886607
+                    }
+                    values {
+                      number_value: 0.0265160631
+                    }
+                    values {
+                      number_value: -0.00688007893
+                    }
+                    values {
+                      number_value: -0.00813523401
+                    }
+                    values {
+                      number_value: -0.00361379911
+                    }
+                    values {
+                      number_value: 0.00274855015
+                    }
+                    values {
+                      number_value: -0.00771881081
+                    }
+                    values {
+                      number_value: -0.0157227255
+                    }
+                    values {
+                      number_value: -0.0126882866
+                    }
+                    values {
+                      number_value: 0.0254760589
+                    }
+                    values {
+                      number_value: 0.032621339
+                    }
+                    values {
+                      number_value: -0.00496269297
+                    }
+                    values {
+                      number_value: 0.000631144212
+                    }
+                    values {
+                      number_value: 0.016055854
+                    }
+                    values {
+                      number_value: -0.00487093627
+                    }
+                    values {
+                      number_value: -0.0130049624
+                    }
+                    values {
+                      number_value: -0.0195587631
+                    }
+                    values {
+                      number_value: 0.0293455813
+                    }
+                    values {
+                      number_value: -0.00667010527
+                    }
+                    values {
+                      number_value: 0.00591134233
+                    }
+                    values {
+                      number_value: 0.00201604026
+                    }
+                    values {
+                      number_value: 0.0244433265
+                    }
+                    values {
+                      number_value: -0.0124417581
+                    }
+                    values {
+                      number_value: -0.0167076737
+                    }
+                    values {
+                      number_value: -0.0097022485
+                    }
+                    values {
+                      number_value: 0.0178674757
+                    }
+                    values {
+                      number_value: -0.0269018337
+                    }
+                    values {
+                      number_value: 0.000498295703
+                    }
+                    values {
+                      number_value: 0.0253022872
+                    }
+                    values {
+                      number_value: 0.00462008873
+                    }
+                    values {
+                      number_value: 0.00700456183
+                    }
+                    values {
+                      number_value: -0.0245788284
+                    }
+                    values {
+                      number_value: -0.131485954
+                    }
+                    values {
+                      number_value: -0.0495577268
+                    }
+                    values {
+                      number_value: 0.0197578464
+                    }
+                    values {
+                      number_value: 0.013416145
+                    }
+                    values {
+                      number_value: -0.00108853204
+                    }
+                    values {
+                      number_value: 0.0205336437
+                    }
+                    values {
+                      number_value: -0.0113759618
+                    }
+                    values {
+                      number_value: 0.0100215664
+                    }
+                    values {
+                      number_value: 0.0198661182
+                    }
+                    values {
+                      number_value: -0.00486694
+                    }
+                    values {
+                      number_value: 0.00361044891
+                    }
+                    values {
+                      number_value: -0.016338665
+                    }
+                    values {
+                      number_value: 0.013173175
+                    }
+                    values {
+                      number_value: -0.0279820263
+                    }
+                    values {
+                      number_value: -0.0263279788
+                    }
+                    values {
+                      number_value: -0.0137558384
+                    }
+                    values {
+                      number_value: -0.0178469438
+                    }
+                    values {
+                      number_value: 0.0409182124
+                    }
+                    values {
+                      number_value: -0.0333298147
+                    }
+                    values {
+                      number_value: -0.0332879312
+                    }
+                    values {
+                      number_value: 0.000440593692
+                    }
+                    values {
+                      number_value: -0.0150241423
+                    }
+                    values {
+                      number_value: 0.0282011293
+                    }
+                    values {
+                      number_value: -0.0022547089
+                    }
+                    values {
+                      number_value: 0.014937412
+                    }
+                    values {
+                      number_value: -0.00864109676
+                    }
+                    values {
+                      number_value: -0.0188245736
+                    }
+                    values {
+                      number_value: -0.00247742468
+                    }
+                    values {
+                      number_value: 0.0682538524
+                    }
+                    values {
+                      number_value: -0.00683832448
+                    }
+                    values {
+                      number_value: -0.0198491178
+                    }
+                    values {
+                      number_value: -0.0358329639
+                    }
+                    values {
+                      number_value: -0.00953125395
+                    }
+                    values {
+                      number_value: 0.0250964165
+                    }
+                    values {
+                      number_value: -0.00633438351
+                    }
+                    values {
+                      number_value: 0.034977
+                    }
+                    values {
+                      number_value: -0.000680289057
+                    }
+                    values {
+                      number_value: -0.00656514848
+                    }
+                    values {
+                      number_value: -0.0266599115
+                    }
+                    values {
+                      number_value: -0.0272064395
+                    }
+                    values {
+                      number_value: -0.0268182
+                    }
+                    values {
+                      number_value: 0.00527977571
+                    }
+                    values {
+                      number_value: 0.0166265592
+                    }
+                    values {
+                      number_value: 0.00792999659
+                    }
+                    values {
+                      number_value: -0.0156344119
+                    }
+                    values {
+                      number_value: -0.0139599368
+                    }
+                    values {
+                      number_value: -0.0212260317
+                    }
+                    values {
+                      number_value: 0.0064585018
+                    }
+                    values {
+                      number_value: 0.00799532235
+                    }
+                    values {
+                      number_value: 0.0166086741
+                    }
+                    values {
+                      number_value: 0.00570132537
+                    }
+                    values {
+                      number_value: 0.00699636946
+                    }
+                    values {
+                      number_value: 0.0144554293
+                    }
+                    values {
+                      number_value: -0.0398711115
+                    }
+                    values {
+                      number_value: 0.00928032305
+                    }
+                    values {
+                      number_value: -0.00570049277
+                    }
+                    values {
+                      number_value: 0.0191114582
+                    }
+                    values {
+                      number_value: -0.00420196587
+                    }
+                    values {
+                      number_value: -0.00197968632
+                    }
+                    values {
+                      number_value: -0.0322863124
+                    }
+                    values {
+                      number_value: 0.0225987155
+                    }
+                    values {
+                      number_value: 0.0173935723
+                    }
+                    values {
+                      number_value: -0.0189472791
+                    }
+                    values {
+                      number_value: -0.0150011228
+                    }
+                    values {
+                      number_value: -0.00306761032
+                    }
+                    values {
+                      number_value: 0.0171720032
+                    }
+                    values {
+                      number_value: -0.0261263363
+                    }
+                    values {
+                      number_value: -0.0195791982
+                    }
+                    values {
+                      number_value: 0.00206380687
+                    }
+                    values {
+                      number_value: 0.0232222378
+                    }
+                    values {
+                      number_value: -0.0165927727
+                    }
+                    values {
+                      number_value: -0.0198196247
+                    }
+                    values {
+                      number_value: -0.010896557
+                    }
+                    values {
+                      number_value: 0.0028713746
+                    }
+                    values {
+                      number_value: 0.0122964671
+                    }
+                    values {
+                      number_value: -0.0258289296
+                    }
+                    values {
+                      number_value: -0.0285956543
+                    }
+                    values {
+                      number_value: 0.0270617865
+                    }
+                    values {
+                      number_value: -0.000957753917
+                    }
+                    values {
+                      number_value: 0.0155944414
+                    }
+                    values {
+                      number_value: -0.00603301
+                    }
+                    values {
+                      number_value: -0.0228009596
+                    }
+                    values {
+                      number_value: 0.00788998883
+                    }
+                    values {
+                      number_value: 0.0446365513
+                    }
+                    values {
+                      number_value: -0.0017285255
+                    }
+                    values {
+                      number_value: 0.00466107577
+                    }
+                    values {
+                      number_value: 0.00747090438
+                    }
+                    values {
+                      number_value: -0.0846662596
+                    }
+                    values {
+                      number_value: 0.0233178753
+                    }
+                    values {
+                      number_value: 0.0141332243
+                    }
+                    values {
+                      number_value: 0.00800273754
+                    }
+                    values {
+                      number_value: 0.0300781932
+                    }
+                    values {
+                      number_value: 0.0155404238
+                    }
+                    values {
+                      number_value: -0.000111955444
+                    }
+                    values {
+                      number_value: 0.0136191212
+                    }
+                    values {
+                      number_value: -0.0115599008
+                    }
+                    values {
+                      number_value: -0.0317781977
+                    }
+                    values {
+                      number_value: 0.00380946393
+                    }
+                    values {
+                      number_value: -0.0327924788
+                    }
+                    values {
+                      number_value: -0.00881811138
+                    }
+                    values {
+                      number_value: 0.0179462209
+                    }
+                    values {
+                      number_value: -0.0321660936
+                    }
+                    values {
+                      number_value: -0.00666734902
+                    }
+                    values {
+                      number_value: -0.00914851204
+                    }
+                    values {
+                      number_value: 0.020202918
+                    }
+                    values {
+                      number_value: -0.00252493541
+                    }
+                    values {
+                      number_value: -0.0025654654
+                    }
+                    values {
+                      number_value: -0.0043345443
+                    }
+                    values {
+                      number_value: -0.0082623
+                    }
+                    values {
+                      number_value: 0.00871847942
+                    }
+                    values {
+                      number_value: 0.00796947349
+                    }
+                    values {
+                      number_value: 0.0226701703
+                    }
+                    values {
+                      number_value: -0.00970915705
+                    }
+                    values {
+                      number_value: -0.0198201016
+                    }
+                    values {
+                      number_value: 0.00162232353
+                    }
+                    values {
+                      number_value: 0.00551280566
+                    }
+                    values {
+                      number_value: -0.0175793972
+                    }
+                    values {
+                      number_value: 0.00179120817
+                    }
+                    values {
+                      number_value: -0.00438756822
+                    }
+                    values {
+                      number_value: -0.0208241977
+                    }
+                    values {
+                      number_value: -0.00956135616
+                    }
+                    values {
+                      number_value: -0.0464738719
+                    }
+                    values {
+                      number_value: -0.0277474262
+                    }
+                    values {
+                      number_value: -0.00421630265
+                    }
+                    values {
+                      number_value: -0.0182600301
+                    }
+                    values {
+                      number_value: 0.00957428198
+                    }
+                    values {
+                      number_value: -0.0106732342
+                    }
+                    values {
+                      number_value: -0.00537653174
+                    }
+                    values {
+                      number_value: 0.0101730162
+                    }
+                    values {
+                      number_value: -0.020318564
+                    }
+                    values {
+                      number_value: 0.00506498432
+                    }
+                    values {
+                      number_value: -0.0280549731
+                    }
+                    values {
+                      number_value: 0.0239103399
+                    }
+                    values {
+                      number_value: 0.00553209661
+                    }
+                    values {
+                      number_value: 0.0120730791
+                    }
+                    values {
+                      number_value: -0.00222567073
+                    }
+                    values {
+                      number_value: -0.0441206023
+                    }
+                    values {
+                      number_value: -0.00763118034
+                    }
+                    values {
+                      number_value: 0.0128258988
+                    }
+                    values {
+                      number_value: 0.0195732675
+                    }
+                    values {
+                      number_value: 0.0125162434
+                    }
+                    values {
+                      number_value: -0.0189875495
+                    }
+                    values {
+                      number_value: 0.0145268263
+                    }
+                    values {
+                      number_value: -0.0244978517
+                    }
+                    values {
+                      number_value: 0.00190213334
+                    }
+                    values {
+                      number_value: -0.00916980859
+                    }
+                    values {
+                      number_value: 0.0123564936
+                    }
+                    values {
+                      number_value: -0.00359113375
+                    }
+                    values {
+                      number_value: 0.0180445444
+                    }
+                    values {
+                      number_value: 0.0473374315
+                    }
+                    values {
+                      number_value: -0.0127742095
+                    }
+                    values {
+                      number_value: 0.00147314102
+                    }
+                    values {
+                      number_value: -0.00635243952
+                    }
+                    values {
+                      number_value: -0.0168977045
+                    }
+                    values {
+                      number_value: -0.0439776815
+                    }
+                    values {
+                      number_value: -0.0180758704
+                    }
+                    values {
+                      number_value: 0.0116542587
+                    }
+                    values {
+                      number_value: 0.0235662684
+                    }
+                    values {
+                      number_value: 0.0221660621
+                    }
+                    values {
+                      number_value: -0.00500211259
+                    }
+                    values {
+                      number_value: -0.00365527
+                    }
+                    values {
+                      number_value: -0.0204728656
+                    }
+                    values {
+                      number_value: 0.0320619717
+                    }
+                    values {
+                      number_value: 0.015573862
+                    }
+                    values {
+                      number_value: 0.00499552861
+                    }
+                    values {
+                      number_value: -0.0300065354
+                    }
+                    values {
+                      number_value: 0.0186480563
+                    }
+                    values {
+                      number_value: 0.0258804783
+                    }
+                    values {
+                      number_value: -0.000709815766
+                    }
+                    values {
+                      number_value: -0.0355153121
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+deployed_model_id: "5595742328217141248"
+

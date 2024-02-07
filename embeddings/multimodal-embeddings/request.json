@@ -1,0 +1,9 @@
+{
+  "instances": [
+    {
+      "video": {
+        "gcsUri": "gs://ucs-demo/multimodal-embeddings/Video_20240206_120526_976.mp4"
+      }
+    }
+  ]
+}
